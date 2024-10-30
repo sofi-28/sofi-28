@@ -13,14 +13,14 @@
 ## 🎓 Education
 #### 1. [Universitas Muhammadiyah Surabaya](https://www.um-surabaya.ac.id/) | 2023-2026
 ##### S1 Teknik Informatika
-- 📍 
+- 📍 Dukuh Sutorejo, Mulyorejo, Surabaya, Jawa Timur, Indonesia
 
 #### 2. [SMA Nusantara 02]() | 2020-2023
 ##### Jurusan IPS
-- 📍 
+- 📍 Brondong, Lamongan, Jawa Timur, Indonesia
 
 #### 3. [MTs Darul Ulum]() | 2017-2020
-- 📍 
+- 📍 Brengkok, Brondong, Lamongan, Jawa Timur, Indonesia
 
 ## Organization
 #### - IMM KAIZEN | Fakultas Teknik Universitas Muhammadiyah Surabaya
