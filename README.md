@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**sofi-28/sofi-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I’m Sofi 👋
+## About Me
+- 🎓 I’m a bachelor of Informatic Student
+- 🏫 I’m study at the [Muhammadiyah University of Surabaya](https://www.um-surabaya.ac.id/)
+- 👀 I’m interested in music and art
+- 💬 Ask me about anything
+- 📫 How to reach me
+- Instagram : [@imsofiiii](https://www.instagram.com/im_sofiiii_/profilecard/?igsh=MTRzMW84MDNtNHExNw==)
+- Email : ansshftn@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: music enthusiast, cat lover.
